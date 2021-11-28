@@ -7,7 +7,7 @@ html,body {
 
 header {
 	background-image: linear-gradient(rgba(42,58,74,0.85),rgba(42,58,74,0.85)), url(picture.jpg);
-	height:110vh;
+	height:160vh;
 	background-size:cover;
 	background-position:center;
 }
